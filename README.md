@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **chanukasenevirathne24@gmail.com**
 
-- ⚡ Fun fact **called me Chanukas-Byte**
+- ⚡ Fun fact **called me Chanuss**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
