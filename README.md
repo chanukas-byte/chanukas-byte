@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Chanuka Senevirathne</h1>
-<h3 align="center">A passionate Developer from Srilanka
+<h3 align="center">A passionate Developer from Srilanka<br/>
   Machine Learning  Enthusiast
 </h3>
 
