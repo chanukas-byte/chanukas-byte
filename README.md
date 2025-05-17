@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chanukas-byte" alt="chanukas-byte" /></a> </p>
 
-- 🔭 I’m currently working on 
 
 - 🌱 I’m currently learning **Kotlin, R , Python , Springboot**
 
