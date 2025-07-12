@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Chanuka Senevirathne</h1>
-<h3 align="center">A passionate Developer And Data Engineer from SriLanka</h3>
+<h3 align="center">A passionate Çloud Architecture  And Data Engineer from SriLanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chanukas-byte&label=Profile%20views&color=0e75b6&style=flat" alt="chanukas-byte" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chanukas-byte" alt="chanukas-byte" /></a> </p>
 
 
-- 🌱 I’m currently learning **Kotlin, R , Python , Springboot**
+- 🌱 I’m currently learning **Python ,SQL, Machine Learning , Aws**
 
 - 👨‍💻 All of my projects are available at [https://github.com/chanukas-byte](https://github.com/chanukas-byte)
 
